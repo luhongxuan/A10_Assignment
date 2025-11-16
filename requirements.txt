@@ -30,7 +30,7 @@ markdown-it-py==4.0.0
 mcp==1.16.0
 mdurl==0.1.2
 opentelemetry-api==1.37.0
-opentelemetry-exporter-otlp-proto-common==1.37.0
+opentelemetry-exporter-otlp-proto-common==1.38.0
 opentelemetry-exporter-otlp-proto-http==1.37.0
 opentelemetry-instrumentation==0.58b0
 opentelemetry-instrumentation-requests==0.58b0
