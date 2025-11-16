@@ -1,3 +1,9 @@
+flake8==7.3.0 
+mccabe==0.7.0
+pycodestyle==2.14.0
+pyflakes==3.4.0
+Jinja2==3.1.6
+
 annotated-types==0.7.0
 anyio==4.11.0
 attrs==25.4.0
@@ -10,7 +16,6 @@ click-option-group==0.5.9
 colorama==0.4.6
 exceptiongroup==1.2.2
 face==24.0.0
-flake8==7.3.0
 glom==22.1.0
 googleapis-common-protos==1.72.0
 h11==0.16.0
@@ -22,7 +27,6 @@ importlib_metadata==8.7.0
 jsonschema==4.25.1
 jsonschema-specifications==2025.9.1
 markdown-it-py==4.0.0
-mccabe==0.7.0
 mcp==1.16.0
 mdurl==0.1.2
 opentelemetry-api==1.37.0
@@ -37,11 +41,9 @@ opentelemetry-util-http==0.58b0
 packaging==25.0
 peewee==3.18.3
 protobuf==6.33.1
-pycodestyle==2.14.0
 pydantic==2.12.4
 pydantic-settings==2.12.0
 pydantic_core==2.41.5
-pyflakes==3.4.0
 Pygments==2.19.2
 python-dotenv==1.2.1
 python-multipart==0.0.20
@@ -64,4 +66,3 @@ uvicorn==0.38.0
 wcmatch==8.5.2
 wrapt==1.17.3
 zipp==3.23.0
-Jinja2==3.1.6
